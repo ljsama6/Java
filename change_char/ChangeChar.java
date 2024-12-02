@@ -2,7 +2,7 @@ package change_char;
 
 public class ChangeChar {
     public static void main(String[] args){
-        //转义字符的类型.
+        //转义字符的类型..
         //1.\t:一个制表位，实现对齐的功能
         System.out.println("-------------------");
         System.out.println("福建省\t泉州市\t晋江市");
