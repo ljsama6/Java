@@ -5,7 +5,7 @@ class Teacher {
     private int age;
     private String post; //职称
     private double salary;
-    private double grand; //工资级别.
+    private double grand; //工资级别..
     public Teacher(String name, int age, String post, double salary, double grand) {
         this.name = name;
         this.age = age;
