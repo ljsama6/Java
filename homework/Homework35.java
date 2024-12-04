@@ -1,7 +1,7 @@
 package homework;
 
 class  BankAccount {
-    private double balance; //余额
+    private double balance; //余额.
     public BankAccount(double initialBalance) {
         this.balance = initialBalance;
     }
